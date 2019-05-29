@@ -42,4 +42,5 @@ pygmentsUseClasses = true
       standard  = "/images/logo.svg"
 
 [context.production.environment]
-  HUGO_VERSION = "0.53"
+  HUGO_VERSION = "0.53"theme = "ananke"
+theme = "ananke"
