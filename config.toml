@@ -40,3 +40,6 @@ pygmentsUseClasses = true
   [params.logo]
       mobile = "/images/logo-mobile.svg"
       standard  = "/images/logo.svg"
+
+[context.production.environment]
+  HUGO_VERSION = "0.53"
